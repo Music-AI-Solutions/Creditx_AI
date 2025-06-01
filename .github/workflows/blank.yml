@@ -1,0 +1,12 @@
+creditxAI/
+├── README.md                # Descripción del proyecto
+├── .gitignore               # Archivos y carpetas a ignorar por git
+├── requirements.txt         # Lista de dependencias (para pip)
+├── src/                     # Código fuente principal
+│   └── __init__.py
+├── data/                    # Datos de entrenamiento o pruebas
+├── notebooks/               # Jupyter Notebooks para experimentación
+├── tests/                   # Pruebas unitarias
+│   └── __init__.py
+├── docs/                    # Documentación adicional
+└── LICENSE                  # Licencia (opcional)
